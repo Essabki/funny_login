@@ -2,7 +2,13 @@
 
 A just-for-fun login page with animated eyes and a playful face.  
 This project is **not serious at all** — it exists only to make people smile 😜
+---
 
+
+https://github.com/user-attachments/assets/39ef44ce-bc5d-4125-8b98-eba169ea6ebb
+
+
+---
 ## 🎯 Purpose
 
 This project was created to:
@@ -33,5 +39,5 @@ No frameworks. No libraries. Just vibes.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/funny-login.git
+   git clone https://github.com/Essabki/funny_login.git
 
