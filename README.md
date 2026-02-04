@@ -5,7 +5,7 @@ This project is **not serious at all** â€” it exists only to make people smile ð
 ---
 
 
-https://github.com/user-attachments/assets/39ef44ce-bc5d-4125-8b98-eba169ea6ebb
+https://github.com/user-attachments/assets/7fa253b5-e065-4548-87fc-f2130c869ae8
 
 
 ---
