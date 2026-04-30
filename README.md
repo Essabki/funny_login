@@ -2,6 +2,7 @@
 
 A just-for-fun login page with animated eyes and a playful face.  
 This project is **not serious at all** — it exists only to make people smile 😜
+https://essabki.github.io/funny_login/
 ---
 
 
